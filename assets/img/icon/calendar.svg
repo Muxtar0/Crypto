@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="13.558" height="15.092" viewBox="0 0 13.558 15.092">
+  <g id="calendar">
+    <path id="Path_54" data-name="Path 54" d="M36.9,30H36.64a.64.64,0,1,0,0,1.279H36.9A.64.64,0,0,0,36.9,30Z" transform="translate(-26.791 -22.326)" fill="#ccc"/>
+    <path id="Path_55" data-name="Path 55" d="M36.9,44H36.64a.64.64,0,1,0,0,1.279H36.9A.64.64,0,0,0,36.9,44Z" transform="translate(-26.791 -32.745)" fill="#ccc"/>
+    <path id="Path_56" data-name="Path 56" d="M11.9,30H11.64a.64.64,0,0,0,0,1.279H11.9A.64.64,0,1,0,11.9,30Z" transform="translate(-8.186 -22.326)" fill="#ccc"/>
+    <path id="Path_57" data-name="Path 57" d="M11.9,44H11.64a.64.64,0,1,0,0,1.279H11.9A.64.64,0,1,0,11.9,44Z" transform="translate(-8.186 -32.745)" fill="#ccc"/>
+    <path id="Path_58" data-name="Path 58" d="M24.4,30H24.14a.64.64,0,1,0,0,1.279H24.4A.64.64,0,1,0,24.4,30Z" transform="translate(-17.489 -22.326)" fill="#ccc"/>
+    <path id="Path_59" data-name="Path 59" d="M24.4,44H24.14a.64.64,0,1,0,0,1.279H24.4A.64.64,0,1,0,24.4,44Z" transform="translate(-17.489 -32.745)" fill="#ccc"/>
+    <path id="Path_60" data-name="Path 60" d="M10.872,1.791h-.256V.64a.64.64,0,1,0-1.279,0V1.791H4.221V.64a.64.64,0,1,0-1.279,0V1.791H2.686A2.689,2.689,0,0,0,0,4.477v7.93a2.689,2.689,0,0,0,2.686,2.686h8.186a2.689,2.689,0,0,0,2.686-2.686V4.477a2.689,2.689,0,0,0-2.686-2.686Zm0,12.023H2.686a1.409,1.409,0,0,1-1.407-1.407V6.4h11v6.011A1.409,1.409,0,0,1,10.872,13.813Z" fill="#ccc"/>
+  </g>
+</svg>
